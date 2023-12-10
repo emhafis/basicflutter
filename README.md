@@ -1,6 +1,11 @@
 # mexican_recipe
 
-A new Flutter project.
+Basic Flutter project.
+
+![Gambar WhatsApp 2023-12-10 pukul 09 25 42_230e3be6](https://github.com/emhafis/basicflutter/assets/134204776/ee9b86d0-f8a7-46f3-afab-77f957bdf2b1)
+![Gambar WhatsApp 2023-12-10 pukul 09 25 43_45db6c96](https://github.com/emhafis/basicflutter/assets/134204776/5575dee3-a79e-4d7a-aa1d-d65f6ab6cae6)
+
+
 
 ## Getting Started
 
